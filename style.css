@@ -13,7 +13,7 @@
     --color-text: #1E293B;
     --color-muted: #ff65a5;
     --color-white: #ffffff;
-    --color-border: #000000;
+    --color-border: #ffffff;
     --font-main: Arial, Helvetica, sans-serif;
     --font-heading: Georgia, 'Times New Roman', serif;
 }
@@ -23,7 +23,7 @@ body {
     font-size: 16px;
     line-height: 1.6;
     color: rgb(253, 29, 186);
-    background-color: black;
+    background-color: rgb(148, 10, 10);
 }
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -202,8 +202,8 @@ footer {
 }
 
 header {
- background: linear-gradient(40deg,
- var(--color-muted),
+ background: linear-gradient(200deg,
+ var(--color-rose),
  var(--color-primary-dark));
  color: var(--color-white);
  padding: 30px 20px 20px;
