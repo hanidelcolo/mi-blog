@@ -7,11 +7,11 @@
 }
 :root {
     --color-primary: #e25075;
-    --color-primary-dark: #f83284;
+    --color-primary-dark: #db256f;
     --color-rose: #fbcfff;
     --color-bg: #000000;
-    --color-text: #1E293B;
-    --color-muted: #ff65a5;
+    --color-text: #f6a669;
+    --color-muted: #f990c2;
     --color-white: #ffffff;
     --color-border: #ffffff;
     --font-main: Arial, Helvetica, sans-serif;
@@ -23,11 +23,11 @@ body {
     font-size: 16px;
     line-height: 1.6;
     color: rgb(253, 29, 186);
-    background-color: rgb(148, 10, 10);
+    background-color: rgba(206, 227, 86);
 }
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: var(--color-primary-dark);
+    color: var(#f6a669);
     margin-bottom: 10px;
 }
 
